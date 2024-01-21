@@ -3,6 +3,8 @@ document.addEventListener('DOMContentLoaded', function () {
   //todo
   let widgetLang = 'ka';
 
+  //add new line
+
   const widgetUrlGet = "http://212.72.155.180:2303/callback_widget/get_schedule.php";
   const widgetUrlSet = "http://212.72.155.180:2303/callback_widget/request_call.php";
 
